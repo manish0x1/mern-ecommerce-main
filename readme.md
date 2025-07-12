@@ -166,9 +166,6 @@ REACT_APP_BASE_URL="http://localhost:8000"
     **What to do?**
     - If you're primarily interested in exploring other functionalities like wishlist, cart, and order history, the demo account is sufficient.
     - To test password reset and OTP verification, create a personal account with a valid email address.
-### Accessing the Application
-Once both servers are running, you can access them at the following URL's:
-- Backend: http://localhost:8000
-- Frontend: http://localhost:3000
+
 
 
